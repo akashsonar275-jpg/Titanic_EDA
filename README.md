@@ -59,7 +59,8 @@ These findings describe associations in the dataset and do not establish causati
 ## Skills Demonstrated
 Data cleaning, exploratory data analysis, feature engineering, Pandas groupby operations, data visualization, and interpretation of findings.
 
-## Author Name
-Akash Sonar
 ## Conclusion
 This project demonstrates how Python can be used to clean, explore, and visualize data to identify passenger survival patterns. It focuses on exploratory analysis and does not include a prediction model.
+
+## Author Name
+Akash Sonar
